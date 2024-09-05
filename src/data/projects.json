@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Quiz-App",
+      "imageSrc": "src/assets/projects/project.png",
+      "description": "An MCQ quiz web app with CRUD functionality and dynamic quiz creation, including post-quiz analysis for user feedback on performance.",
+      "skills": ["HTML", "CSS","JavaScript", "Node.js"],
+      "source": "https://github.com/medha37/Quiz-App"
+    },
+    {
+      "title": "Vaccine-Bank",
+      "imageSrc": "src/assets/projects/project.png",
+      "description": "A Blockchain-based vaccine authorization system enabling cryptocurrency transactions, automatic ownership transfer, and unique IDs for sellers and buyers.",
+      "skills": ["Blockchain", "Web3JS", "Ethereum", "JavaScript"],
+      "source": "https://github.com/medha37/Vaccine-Bank"
+    },
+    {
+      "title": "Task-Tracker",
+      "imageSrc": "src/assets/projects/project.png",
+      "description": "A high-performance management app with Vue.js and Spring Boot, enhancing task management efficiency, user experience, and security for all active users.",
+      "skills": ["Spring Boot", "JPA", "Vue.js", "Java", "Hibernate"],
+      "source" : "Internal Project"
+    }
+  ]

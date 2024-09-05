@@ -1,0 +1,26 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "/src/assets/skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "/src/assets/skills/css.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "/src/assets/skills/javascript.png"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "/src/assets/skills/node.png"
+    },
+    {
+        "title": "Spring Boot",
+        "imageSrc": "/src/assets/skills/springBoot.png"
+    },
+    {
+        "title": "SQL Server",
+        "imageSrc": "/src/assets/skills/sqlServerIcon.jpg"
+    }
+  ]
