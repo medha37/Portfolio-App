@@ -1,26 +1,26 @@
 [
     {
       "title": "HTML",
-      "imageSrc": "/src/assets/skills/html.png"
+      "imageSrc": "/skills/html.png"
     },
     {
       "title": "CSS",
-      "imageSrc": "/src/assets/skills/css.png"
+      "imageSrc": "/skills/css.png"
     },
     {
       "title": "JavaScript",
-      "imageSrc": "/src/assets/skills/javascript.png"
+      "imageSrc": "/skills/javascript.png"
     },
     {
       "title": "Node",
-      "imageSrc": "/src/assets/skills/node.png"
+      "imageSrc": "/skills/node.png"
     },
     {
         "title": "Spring Boot",
-        "imageSrc": "/src/assets/skills/springBoot.png"
+        "imageSrc": "/skills/springBoot.png"
     },
     {
         "title": "SQL Server",
-        "imageSrc": "/src/assets/skills/sqlServerIcon.jpg"
+        "imageSrc": "/skills/sqlServerIcon.jpg"
     }
   ]

@@ -5,7 +5,7 @@
       "startDate": "Jun, 2022",
       "endDate": "Present",
       "experiences": ["Front-end Development", "API Development", "Project Contribution"],
-      "imageSrc": "/src/assets/history/oxanePartners.jpeg"
+      "imageSrc": "/history/oxanePartners.jpeg"
     },
     {
       "role": "SWE Intern",
@@ -13,6 +13,6 @@
       "startDate": "Jan, 2022",
       "endDate": "May, 2022",
       "experiences": ["Data-Driven Reporting","Backend Integration"],
-      "imageSrc": "/src/assets/history/oxanePartners.jpeg"
+      "imageSrc": "/history/oxanePartners.jpeg"
     }
   ]

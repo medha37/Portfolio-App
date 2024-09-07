@@ -23,9 +23,11 @@ export const ProjectCard = ({
           );
         })}
       </ul>
-       {title === "Task-Tracker" ? <p className={styles.link} >{source}</p> : <a href={source} className={styles.link}>
-          Source </a> 
+      <div className={styles.links}>
+        {title === "Task-Tracker" ? <p className={styles.link} >{source}</p> : <a href={source} className={styles.link}>
+          Source </a>
         }
+      </div>
     </div>
   );
 };

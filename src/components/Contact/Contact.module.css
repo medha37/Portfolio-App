@@ -12,9 +12,11 @@
   gap: 10px;
   align-items: center;
 }
+
 .text {
-    max-width: 50%; /* To ensure the text doesn’t stretch too much */
-  }
+  max-width: 50%;
+  /* To ensure the text doesn’t stretch too much */
+}
 
 .text h2 {
   font-size: 60px;
@@ -34,6 +36,7 @@
   align-items: flex-start;
   list-style: none;
   gap: 16px;
+  margin-right: 250px;
 }
 
 .link {
@@ -53,8 +56,9 @@
 @media screen and (max-width: 830px) {
   .container {
     flex-direction: column;
-    gap: 30px;  /* Increase gap between sections */
-    align-items: center; 
+    gap: 20px;
+    /* Increase gap between sections */
+    align-items: center;
   }
 
   .text {
@@ -65,5 +69,7 @@
 
   .links {
     align-items: center;
+    margin-right: 250px;
+    margin-left: 300px;
   }
 }

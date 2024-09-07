@@ -1,9 +1,9 @@
 import React from "react";
 import styles from "./About.module.css"
-import aboutImage from "../../assets/about/AboutImage.jpeg"
-import cursorIcon from "../../assets/about/cursorIcon.png"
-import serverIcon from "../../assets/about/serverIcon.png"
-import uiIcon from "../../assets/about/uiIcon.png"
+import aboutImage from "/about/AboutImage.jpeg"
+import cursorIcon from "/about/cursorIcon.png"
+import serverIcon from "/about/serverIcon.png"
+import uiIcon from "/about/uiIcon.png"
 
 
 export const About = () => {
